@@ -2,7 +2,7 @@
 
 ## Desarrollador Full Stack | De la Ingeniería al Código
 
-Ingeniero actrualmente dedicado al desarrollador web.
+Ingeniero actrualmente dedicado al desarrollo web.
 
 ### 💻 Stack Principal
 - **Frontend:** JavaScript (ES6+), Web Components, HTML5, CSS3
@@ -15,6 +15,6 @@ Ingeniero actrualmente dedicado al desarrollador web.
 - **Bot Telegram con Panel Admin** - Arquitectura event-driven + WebSockets
 - **Chatbot IA Inmobiliario** - Búsqueda semántica + grafos de conocimiento
 
-📫 **Contacto:** d.gomezsos@hotmail.com | [LinkedIn]([tu-linkedin](https://www.linkedin.com/in/david-g%C3%B3mez-sospedra-4317b9221/))
+📫 **Contacto:** d.gomezsos97@gmail.com | [LinkedIn]([tu-linkedin](https://www.linkedin.com/in/david-g%C3%B3mez-sospedra-4317b9221/))
 
 ---
