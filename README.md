@@ -1,6 +1,6 @@
 # 👋 Hola, soy David Gómez
 
-## Desarrollador Full Stack | De la Ingeniería al Desarrollo de software
+## Desarrollador Full Stack | De la Ingeniería al Software
 
 Ingeniero actrualmente dedicado al desarrollo web.
 
