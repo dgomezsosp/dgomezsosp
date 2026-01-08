@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy David Gómez
 
-<!--
-**dgomezsosp/dgomezsosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador Full Stack | De la Ingeniería al Código
 
-Here are some ideas to get you started:
+Ingeniero actrualmente dedicado al desarrollador web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Principal
+- **Frontend:** JavaScript (ES6+), Web Components, HTML5, CSS3
+- **Backend:** Node.js, Express
+- **Bases de Datos:** MongoDB, MySQL, Neo4j, ChromaDB, Redis
+- **IA & Tools:** OpenAI API, Selenium, WebSockets
+
+### 🔨 Proyectos Destacados
+- **Sistema de Búsqueda Inteligente** - Web scraping + IA + 4 tipos de BD
+- **Bot Telegram con Panel Admin** - Arquitectura event-driven + WebSockets
+- **Chatbot IA Inmobiliario** - Búsqueda semántica + grafos de conocimiento
+
+📫 **Contacto:** d.gomezsos@hotmail.com | [LinkedIn]([tu-linkedin](https://www.linkedin.com/in/david-g%C3%B3mez-sospedra-4317b9221/))
+
+---
