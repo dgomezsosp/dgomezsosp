@@ -1,20 +1,7 @@
-# 👋 Hola, soy David Gómez
+# 👋 Hola, soy David
 
-## Desarrollador Full Stack | De la Ingeniería al Software
+De resolver circuitos a resolver bugs. Mismo enfoque analítico, nuevo lenguaje.
 
-Ingeniero actrualmente dedicado al desarrollo web.
+**Trabajo con:** JavaScript, Node.js, Express, bases de datos (SQL, NoSQL, grafos, vectoriales) e IA.
 
-### 💻 Stack Principal
-- **Frontend:** JavaScript (ES6+), Web Components, HTML5, CSS3
-- **Backend:** Node.js, Express
-- **Bases de Datos:** MongoDB, MySQL, Neo4j, ChromaDB, Redis
-- **IA & Tools:** OpenAI API, Selenium, WebSockets
-
-### 🔨 Proyectos Destacados
-- **Sistema de Búsqueda Inteligente** - Web scraping + IA + 4 tipos de BD
-- **Bot Telegram con Panel Admin** - Arquitectura event-driven + WebSockets
-- **Chatbot IA Inmobiliario** - Búsqueda semántica + grafos de conocimiento
-
-📫 **Contacto:** d.gomezsos@hotmail.com | [LinkedIn](https://www.linkedin.com/in/david-g%C3%B3mez-sospedra-4317b9221/)
-
----
+📍 Palma de Mallorca | 💼 [LinkedIn](https://www.linkedin.com/in/david-gomez-sospedra/) | 📧 d.gomezsos97@gmail.com
